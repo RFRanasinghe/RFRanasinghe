@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working at **Prima Management Services (Pvt) Ltd**
+- 🔭 Currently working as an Associate Software Engineer at **Prima Management Services (Pvt) Ltd**
 - 👯 Experience in **SFA Applications**
 - 🤝 Interested in **Mobile Application Development**
 - 👨‍💻 Portfolio:  
